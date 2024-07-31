@@ -1,5 +1,5 @@
-    #How to get started
-
+   
+    # How to get started
 
 1. Open terminal and get following packages: 
    ```
