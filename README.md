@@ -32,7 +32,7 @@
    sqlc generate
    ```
 
-6. Run command: 
+6. Open Docker and run command: 
    ```
    docker-compose up -d 
    ```
